@@ -75,9 +75,13 @@ Note the speed of D1/D2/D3 - they should seem like a 3-bit binary counter.
 
 Once you have all three LEDs blinking properly, answer the following questions:
 
-1. At what frequency does D1 toggle? [*answer here*]
+1. At what frequency does D1 toggle?
+ 
+1Hz
 
-2. Do all LEDs toggle at *exactly* the same time? [*answer here*]
+2. Do all LEDs toggle at *exactly* the same time? 
+
+No, but there's a point where they all turn off at the same time
 
 ## Part 2: Changing the clock tree
 
